@@ -4,3 +4,6 @@ function memo(){
     console.log('memo')
 }
 memo()
+function A(){
+    console.log("A同学")
+}
