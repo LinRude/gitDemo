@@ -6,6 +6,7 @@ function memo(){
 memo()
 function B(){
     console.log("B同学")
+}
 function A(){
-    console.log("A同学")
+    console.log("A同学");
 }
