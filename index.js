@@ -10,6 +10,9 @@ function B() {
 function A() {
     console.log("A同学");
 }
+// 练习git
+
+console.log("如果我不-f呢？");
 // 今天是2024-11-09 21：58
 console.log("sxf")
 console.log("git rebase结束")
