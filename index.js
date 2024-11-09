@@ -10,6 +10,6 @@ function B() {
 function A() {
     console.log("A同学");
 }
-// 今天是2024-11-09
-console.log(new Date());
-// 练习git
+// 今天是2024-11-09 21：58
+console.log("sxf")
+console.log("git rebase结束")
